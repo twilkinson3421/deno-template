@@ -6,7 +6,7 @@
         "useTabs": false,
 
         "bracePosition": "nextLine",
-        "preferHanging": true,
+        "preferHanging": false,
     },
 
     "excludes": [ "**/*.min.*", "**/*.vendor.*", "**/*.lock" ],
