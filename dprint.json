@@ -10,5 +10,5 @@
     },
 
     "excludes": [ "**/*.min.*", "**/*.vendor.*", "**/*.lock" ],
-    "plugins": [ "https://plugins.dprint.dev/typescript-0.95.12.wasm" ]
+    "plugins": [ "https://plugins.dprint.dev/typescript-0.95.13.wasm" ]
 }
